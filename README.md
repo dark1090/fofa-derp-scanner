@@ -16,7 +16,7 @@
 
 ## 第一步：信息收集 (FOFA)
 
-1. 打开 [FOFA 官网](https://fofa.info/)
+1. 打开 [FOFA 官网](https://fofa.so/)
 2. 使用以下查询条件进行搜索（可以根据需要调整 `country`）：
    ```fofa
    body="Tailscale" && body="DERP server" && country="CN"
